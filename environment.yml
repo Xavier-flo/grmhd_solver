@@ -1,0 +1,15 @@
+name: grmhd
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - matplotlib
+  - numba
+  - mpi4py
+  - h5py
+  - jupyterlab
+  - black
+  - flake8
+  - pytest
